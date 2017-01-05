@@ -1,4 +1,4 @@
-# 以下を参照して、特に残った部分をコピペした
+# 以下を参照して、特に記憶に残したい部分をコピペした
 https://github.com/takanabe/introduction-to-git/blob/master/02_first_commit.md
 
 
